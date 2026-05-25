@@ -1,0 +1,122 @@
+[
+  {
+    "category": "company",
+    "question": "What is Siva Motors?",
+    "answer": "Siva Motors is a leading car service provider in Chennai, offering maintenance, repairs, and sales support for all car models since 2005."
+  },
+  {
+    "category": "company",
+    "question": "Where is Siva Motors located?",
+    "answer": "Siva Motors has branches across Chennai, including Adyar, Velachery, and Tambaram. Our main office is at 123, Main Road, Chennai, Tamil Nadu, India."
+  },
+  {
+    "category": "company",
+    "question": "What are the working hours of Siva Motors?",
+    "answer": "Siva Motors operates Monday to Saturday, from 9:00 AM to 7:00 PM. Closed on Sundays and public holidays."
+  },
+  {
+    "category": "services",
+    "question": "What services does Siva Motors offer?",
+    "answer": "Siva Motors offers vehicle periodic maintenance, engine repair, AC servicing, electrical system repair, bodywork, wheel alignment, battery replacement, and roadside assistance."
+  },
+  {
+    "category": "services",
+    "question": "Do you provide engine repair services?",
+    "answer": "Yes, Siva Motors provides full engine diagnostics and repair services with certified technicians."
+  },
+  {
+    "category": "services",
+    "question": "Do you provide AC servicing?",
+    "answer": "Yes, we offer AC inspection, gas refilling, and repair services for all car models."
+  },
+  {
+    "category": "services",
+    "question": "Do you provide roadside assistance?",
+    "answer": "Yes, Siva Motors offers 24/7 roadside assistance for emergencies like battery issues, towing, and minor breakdowns."
+  },
+  {
+    "category": "pricing",
+    "question": "How much does a standard oil change cost?",
+    "answer": "A standard oil change starts at ₹999, depending on your car model."
+  },
+  {
+    "category": "pricing",
+    "question": "How much does periodic maintenance cost?",
+    "answer": "Periodic maintenance packages start at ₹3,500 and vary based on vehicle type and mileage."
+  },
+  {
+    "category": "pricing",
+    "question": "Are there any discounts available?",
+    "answer": "Yes, we offer seasonal discounts, festive offers, and loyalty programs for returning customers."
+  },
+  {
+    "category": "contacts",
+    "question": "How can I book a service?",
+    "answer": "You can book a service via our website, call us at 044-12345678, or WhatsApp at +91 9876543210."
+  },
+  {
+    "category": "contacts",
+    "question": "What is the response time for customer calls?",
+    "answer": "Our support team responds to calls and messages within 30 minutes during working hours."
+  },
+  {
+    "category": "faq",
+    "question": "Do you offer pickup and drop for car servicing?",
+    "answer": "Yes, Siva Motors offers free pickup and drop service for vehicles within Chennai."
+  },
+  {
+    "category": "faq",
+    "question": "Do you provide service for all car models?",
+    "answer": "Yes, our technicians are trained to service all major car brands and models."
+  },
+  {
+    "category": "faq",
+    "question": "What payment methods are accepted?",
+    "answer": "We accept cash, credit/debit cards, UPI payments, and net banking."
+  },
+  {
+    "category": "faq",
+    "question": "Is there a warranty on repairs?",
+    "answer": "Yes, Siva Motors provides a 6-month warranty on all repairs and replaced parts."
+  },
+  {
+    "category": "faq",
+    "question": "Can I reschedule my service appointment?",
+    "answer": "Yes, service appointments can be rescheduled via our website or by calling our customer support."
+  },
+  {
+    "category": "faq",
+    "question": "Do you provide on-site diagnostics?",
+    "answer": "Yes, Siva Motors technicians can perform on-site diagnostics for certain issues upon request."
+  },
+  {
+    "category": "faq",
+    "question": "What should I do in case of a breakdown?",
+    "answer": "Contact our roadside assistance number +91 9876543210, and our team will assist you promptly."
+  },
+  {
+    "category": "faq",
+    "question": "Do you provide battery replacement?",
+    "answer": "Yes, we provide battery inspection, replacement, and disposal services for all car models."
+  },
+  {
+    "category": "faq",
+    "question": "Do you offer wheel alignment and balancing?",
+    "answer": "Yes, we offer precise wheel alignment, balancing, and tire rotation services."
+  },
+  {
+    "category": "faq",
+    "question": "How long does a standard service take?",
+    "answer": "A standard service usually takes 2–3 hours, depending on the type of service and vehicle model."
+  },
+  {
+    "category": "faq",
+    "question": "Do you provide insurance claim support?",
+    "answer": "Yes, our team assists with insurance claim documentation and processing for repairs and accidents."
+  },
+  {
+    "category": "faq",
+    "question": "Are genuine spare parts used in repairs?",
+    "answer": "Yes, Siva Motors uses only genuine OEM parts for all replacements and repairs."
+  }
+]
