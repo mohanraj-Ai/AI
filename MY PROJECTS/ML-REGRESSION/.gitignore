@@ -1,0 +1,56 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+
+.venv/
+venv/
+env/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# IDE
+
+.vscode/
+.idea/
+
+# Python cache
+
+.pytest_cache/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Environment variables / secrets
+
+.env
+*.env
+
+# Large datasets
+
+*.csv
+*.xlsx
+*.xls
+
+# Model files
+
+*.pkl
+*.joblib
+
+# Temporary files
+
+*.tmp
+*.temp
+
+models/final_model_rf.sav
